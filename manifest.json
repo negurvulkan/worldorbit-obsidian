@@ -6,4 +6,5 @@
   "description": "Render WorldOrbit code blocks in Obsidian with diagnostics and interactive 2D previews.",
   "author": "Hanjo Winter",
   "isDesktopOnly": false
+  "repo": "negurvulkan/worldorbit-obsidian"
 }
